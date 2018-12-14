@@ -1,3 +1,9 @@
 # Machine Learning From Scratch
 
-Implementation of different machine learning algorithms without making use of dedicated python libraries.
+Main algorithms implemented:
+
+- Gradient Descent
+- Stochastic Gradient
+- Optimal Least Square
+- Ridge Regression
+- LASSO Regression
