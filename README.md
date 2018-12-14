@@ -7,5 +7,5 @@ Overview of implemented algorithms from scratch:
 - Ordinary Least Square
 - Ridge Regression
 - LASSO Regression
-- Cross Validation
+- K-fold Cross-Validation
 - Loss functions
