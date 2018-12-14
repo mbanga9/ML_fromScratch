@@ -1,3 +1,3 @@
-# ML_fromScratch
+# Machine Learning From Scratch
 
-Implementation of different machine learning algorithms without without making use of existing libraries in python.
+Implementation of different machine learning algorithms without making use of dedicated python libraries.
